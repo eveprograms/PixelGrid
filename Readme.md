@@ -32,7 +32,7 @@ Live Project: https://evepanzarino.github.io/pixelgrid
 - **React 18.2.0** with the Latest Stable Version
 - Deployed to **GitHub Pages** for **Front-end Hosting**
 
-**The PixelGrid App does not use a database on Github Pages. **
+**The PixelGrid App does not use a database on Github Pages.**
 **Backend (Server) & Database:**
 - **Node.js** with **Express.js 4.18.2** - REST API server
 - **MySQL2 3.6.0** - MySQL database driver
