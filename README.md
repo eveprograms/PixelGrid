@@ -1,6 +1,6 @@
 # **PixelGrid**
 
-##November 2025 — Present
+## November 2025 — Present
 </br>
 PixelGrid: <a href="https://evepanzarino.github.io/pixelgrid"> **Live Project**</a>
 
