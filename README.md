@@ -1,8 +1,8 @@
-# PixelGrid
+# **PixelGrid**
 
-**November 2025 — Present**
+##November 2025 — Present
 </br>
-PixelGrid: <a href="https://evepanzarino.github.io/pixelgrid"> **Live Project**
+PixelGrid: <a href="https://evepanzarino.github.io/pixelgrid"> **Live Project**</a>
 
 ## Upcomimg Features
 - line tool — click start of line click to end of line
