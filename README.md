@@ -1,4 +1,6 @@
 # PixelGrid
+
+November 2025 — Present
 <a href="https://evepanzarino.github.io/pixelgrid"> **Live Project**
 
 ## Upcomimg Features
